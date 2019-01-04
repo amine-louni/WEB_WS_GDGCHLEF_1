@@ -1,7 +1,14 @@
 # WS_GDGCHLEF_1
+
 Basic Template for absolute beginners made with html css and vanilla javaScript
 
 This project  has been simplified for those starting out with web development and programming.
+
+
+#### Event    : GDG Techdays [GDG CHLEF]
+#### Location : Centre de Loisirs Scientifiques "Ghoulam Mohammed" - CLS Chlef 
+#### Date     : 29 January 2018 
+
 
  
 
