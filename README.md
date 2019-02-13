@@ -7,7 +7,7 @@ This project  has been simplified for those starting out with web development an
 
 #### Event    : GDG Techdays [GDG CHLEF]
 #### Location : Centre de Loisirs Scientifiques "Ghoulam Mohammed" - CLS Chlef 
-#### Date     : 29 January 2018 
+#### Date     : 29 Nov 2018 
 
 
  
